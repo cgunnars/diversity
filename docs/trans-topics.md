@@ -1,6 +1,6 @@
 <!-- .slide: data-background="#3F51B5" class="dark" -->
 
-### Trans rights
+### Advocating for trans rights
 
 ###### Cal Gunnarsson, MIT BE
 
