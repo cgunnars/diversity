@@ -174,7 +174,7 @@ Examples are _frequent, pervasive, and obvious_
 - Worked with Title IX office to roll out stickers
 - Current students briefed on pronoun etiquette
 - Discussed at faculty meeting
-- Put together [pronoun explainer](https://titleix.mit.edu/pronouns) to accompany stickers
+- [Pronoun explainer](https://titleix.mit.edu/pronouns) to accompany stickers
 
 <img src="img/pronoun-stickers.jpg" width=80%>
 
